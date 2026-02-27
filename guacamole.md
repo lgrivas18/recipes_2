@@ -2,6 +2,7 @@
 ## Ingredients
 * avocado
 * lime
+* cumin
 * salt
 * carrot
 ## Instructiones
